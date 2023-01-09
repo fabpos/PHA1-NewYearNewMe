@@ -1,0 +1,167 @@
+*{
+    margin:0;
+}
+.main{
+    width: 1349px;
+    height: 810px;
+    background-image: url(../images/banner/banner1.png);
+}
+.title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 750px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.title-description{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 780px;
+    top: 468px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+.button{
+    background-color: #F15B22;
+    border-style: none;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1115px;
+    top: 578px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.btn-text{
+    text-align: left;
+    width: 109px;
+    height: 23px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.display{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.focus{
+    display: flex;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+.feature{
+    margin-top: 350px;
+    margin-left: 87px;
+    margin-right: 0px;
+}
+.ceo-size{
+    width: 569px;
+    height: 723px;
+}
+h2{
+    padding-bottom: 24px;
+}
+.feature-list{
+    padding-top: 16px;
+    list-style: none;
+    padding-left: 0;
+}
+.tech{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 62px;
+}
+.plan{
+    display: flex;
+    gap: 86px;
+    margin-left: 250px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.icons-p{
+    font-weight: 700;
+}
+.icons-des{
+    color: #737272;
+    margin-top: 10px;
+}
+.cta{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    border-radius: 8px;
+    padding-top: 120px;
+    padding-left: 64px;
+}
+.cta-title{
+    color: azure;
+}
+.cta-btn{
+    border-style: none;
+    width: 100px;
+    height: 50px;
+    left: 800px;
+    top: 80px;
+    color:#F15B22;
+}
+footer{
+    background-color: black;
+    color: azure;
+}
+.footer-text{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.info p{
+    padding-right: 350px;
+    padding-top: 20px;
+    margin-left: 0px;
+}
+.newsletter{
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 80px;
+    text-align: left;
+}
+.display-bottom{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.info img{
+    padding-top: 20px;
+}
+.subscribe{
+    padding-bottom: 20px;
+}
+.email{
+    padding: 5px;
+}
+.email-btn{
+    padding: 10px;
+    border-radius: 5px;
+    color: #F15B22;
+}
+.sub-form{
+    padding-bottom: 20px;
+}
+.button-down{
+    padding-top: 20px;
+}
+h4{
+    text-align: center;
+    padding-top: 30px;
+}
+.copyright{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}
